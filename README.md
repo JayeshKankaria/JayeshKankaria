@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayeshKankaria.
 - 👀 I’m interested in coding,swimming and travelling.
--  🛠 I know basics of Java,Python and CPP.
-- 🌱 I’m currently learning Python in detail,basics of c and front end development.
+-  🛠 I know basics of Java,Python,C and CPP.
+- 🌱 I’m currently learning Python in detail and various tools  for front end development.
 - 💞️ I’m looking to collaborate on anything interesting which will help me to develop my skills.
 - 📫 How to reach me kankaria.jayesh@gmail.com
 
